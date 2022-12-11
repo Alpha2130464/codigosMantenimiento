@@ -1,0 +1,8 @@
+#!/bin/bash
+echon()
+{
+  echo "$*" | tr -d '\n'
+}
+
+echon "Ingrese las coordenadas para la adquisición del satelite: "
+read answer
