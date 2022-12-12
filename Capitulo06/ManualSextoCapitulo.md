@@ -34,7 +34,7 @@ Crea un respaldo completo o incremental definido en un directorio del sistema y 
 # Ejercicio 52
 ---
 
-Crea un respaldo de un subdirectorio el cual se guarda como un archivo comprimido
+Crea un respaldo de un subdirectorio el cual se guarda como un archivo comprimido (en este caso .tgz)
 
  ![Salida Ejercicio 52](/codigosMantenimiento/Capitulo6/ejercicio52.png)
 

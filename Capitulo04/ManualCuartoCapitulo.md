@@ -15,7 +15,7 @@ En este código permite leer el contenido de un archivo, en el cual es important
 
 Este código permite leer el contenido de un archivo, pero tambien muestra datos adicionales acerca de este: tales como su nombre, extensión, cantidad de lineas, cantidad de caracteres y a quien pertenece.
 
- ![Salida Ejercicio 299](/codigosMantenimiento/Capitulo4/ejercicio29.png)
+ ![Salida Ejercicio 29](/codigosMantenimiento/Capitulo4/ejercicio29.png)
 
 # Ejercicio 30
 ---

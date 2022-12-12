@@ -43,5 +43,5 @@ Este código se encarga de comprobar que todas las entradas en el PATH sean vali
 
 Este codigo no muestra nada si se ejecuta, solamente al salir elimina las cosas que se hayan hecho o cambios recientes en el equipo
 
- ![Salida Ejercicio 43](/codigosMantenimiento/Capitulo5/ejercicio44.png)
+ ![Salida Ejercicio 44](/codigosMantenimiento/Capitulo5/ejercicio44.png)
 
