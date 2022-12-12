@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#TENEMOS QUE EJECUTAR CON ROOT#
+
+# locate - search the locate database for the specified pattern
+
+locatedb="/var/tmp/locate.db"
+
+exec grep -i "$@" $locatedb
