@@ -1,0 +1,9 @@
+Este
+es un
+archivo
+que contiene
+algunas cadenas de texto
+para ver si pueden leerse
+mediante el codigo del programa.
+-quiet -verbose
+seguimos probando cosas
