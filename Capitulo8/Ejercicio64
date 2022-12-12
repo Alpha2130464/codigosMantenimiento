@@ -1,0 +1,19 @@
+#!/bin/bash
+logfile="/home/lilith/Documentos/Mantenimiento/codigosMantenimiento/Capitulo8/busqueda.txt"
+
+if [ ! -f $logfile ] ; then
+  touch $logfile
+  chmod a+rw $logfile
+fi
+
+if [ -w $logfile ] ; then
+  echo "$(date): $QUERY_STRING" | sed 's/p=//g;s/+/ /g' >> $logfile
+fi
+
+# echo "Content-type: text/html"
+# echo ""
+
+echo "Location: https://duckduckgo.com/?q=zelda&t=h_&ia=web$QUERY_STRING"
+echo ""
+
+exit 0
